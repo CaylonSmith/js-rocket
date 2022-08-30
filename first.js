@@ -1,5 +1,12 @@
 
-    var car = {
+   
+   let doCoolStuff = function ()
+   {
+document.getElementById('cool').className ='cool red';
+
+   }
+   
+   var car = {
       make: "VW",
       type: "polo",
       color: "blue",
